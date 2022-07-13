@@ -2,10 +2,6 @@
 
 <i>*Lembre-se que vários desses conteúdos são gratuitos para baixar e usar, maaaas não podem ser usados comercialmente, ou seja, ganhar dinheiro em cima disso, principalmente os assets de outros jogos</i>
 
-<span style="color:GREEN"><b>GRATUITO</b></span>
-<span style="color:RED"><b>PAGO</b></span>
-<span style="color:orange"><b>GRATUITO COM RECURSOS PAGOS</b></span>
-
 ---
 ## Diversos
 
@@ -26,8 +22,16 @@
 - [PISKEL](https://www.piskelapp.com/) - Ferramenta para construção de animação e personagens ao estilo pixel art (<span style="color:GREEN"><b>GRATUITO</b></span>)
 - [Glitch](http://c1.glitch.bz/misc/2013-01-25/glitch-assets.zip) - Sprites variados (<span style="color:GREEN"><b>GRATUITO</b></span>)
 - [Game Art 2D](https://www.gameart2d.com/p) - Sprites, tileset e huds pagos e gratuitos para uso (<span style="color:orange"><b>GRATUITO COM RECURSOS PAGOS</b></span>)
+- [Pixel Art RPG Character Creator](https://edermunizz.itch.io/pixel-art-rpg-character-creator) - Ferramenta online para criação de personagem em pixel art
+- [Pixel Planet Generator](https://deep-fold.itch.io/pixel-planet-generator) - Gerador de planetas em pixel art (<span style="color:GREEN"><b>GRATUITO</b></span>)
+- [Gun Maker](https://federico-calchera.itch.io/pixel-gun-maker) - Um gerador de armas em pixel art (<span style="color:GREEN"><b>GRATUITO</b></span>)
+- [Creature Maker](https://kenney.itch.io/creature-mixer) - Gerador de monstrinhos :) (<span style="color:GREEN"><b>GRATUITO</b></span>)
+- [Character Creation Tool/Generator](https://1up-indie2.itch.io/character-creation-tool-full) - Crie personagens em formato de pixel arte de forma bem fácil nessa ferramenta (<span style="color:RED"><b>PAGO</b></span>)
+- [Aurora Character Generator](https://redoxgames.itch.io/aurora-character-generator) - Gerador de personagens 2D com animação de andar (<span style="color:GREEN"><b>GRATUITO</b></span>)
+- [Character Creator 2D](https://mochakingup.itch.io/cc2d) - Um gerador muito top e completo de personagens 2D. Apenas a versão paga é que permite baixar as png's ou exportar o prefab para o Unity (<span style="color:RED"><b>PAGO</b></span>)
 
 ### Modelos 3D
+
 <span style="color:tomato"><i> Unity usa os formatos .fbx ou .obj</i></span>
 - [TurboSquid](https://www.turbosquid.com/pt_br/Search/3D-Models/free/unitypackage) - Repositório com vários modelos 3D gratuitos e pagos (<span style="color:orange"><b>GRATUITO COM RECURSOS PAGOS</b></span>)
 - [SketchFab](https://sketchfab.com/features/free-3d-models) - Diversos modelos pagos e gratuitos.Para pegar umgratuito, procure por downloadable (<span style="color:orange"><b>GRATUITO COM RECURSOS PAGOS</b></span>)
