@@ -29,6 +29,8 @@
 - [Character Creation Tool/Generator](https://1up-indie2.itch.io/character-creation-tool-full) - Crie personagens em formato de pixel arte de forma bem fácil nessa ferramenta (<span style="color:RED"><b>PAGO</b></span>)
 - [Aurora Character Generator](https://redoxgames.itch.io/aurora-character-generator) - Gerador de personagens 2D com animação de andar (<span style="color:GREEN"><b>GRATUITO</b></span>)
 - [Character Creator 2D](https://mochakingup.itch.io/cc2d) - Um gerador muito top e completo de personagens 2D. Apenas a versão paga é que permite baixar as png's ou exportar o prefab para o Unity (<span style="color:RED"><b>PAGO</b></span>)
+- [Itch.io - Tilesets](https://itch.io/game-assets/free/tag-tileset) - Lista com vários tilesets gratuitos (<span style="color:GREEN"><b>GRATUITO</b></span>)
+- [Itch.io - GUI](https://itch.io/game-assets/free/tag-gui) - Lista com vários GUI gratuítos (<span style="color:GREEN"><b>GRATUITO</b></span>)
 
 ### Modelos 3D
 
